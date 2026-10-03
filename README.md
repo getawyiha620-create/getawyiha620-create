@@ -1,4 +1,3 @@
-## Hi there 👋
 <div align="center">
 
 # Hi, I'm Getaw Yiha 👋
@@ -20,7 +19,7 @@ Passionate about clean architecture, secure APIs, and delivering real-world solu
 
 - 🔭 Currently focused on building production-ready full-stack applications with **Spring Boot** + **React**
 - 🌱 Continuously improving in backend architecture, REST APIs, authentication (JWT), and frontend integration
-- 💡 Strong interest in healthcare tech, task management systems, and real-time applications
+- 💡 Strong interest in real-time applications, authentication systems, and clean full-stack architecture
 - 📫 Reach me at: **getawyiha620@gmail.com**
 - ⚡ Open to full-time opportunities, internships, and exciting full-stack projects
 
@@ -54,11 +53,10 @@ Passionate about clean architecture, secure APIs, and delivering real-world solu
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **[Telemedicine Application](https://github.com/getawyiha620-create/telemedicine-application)** | Full-stack telemedicine platform with authentication, appointments, and patient management | Spring Boot • React • JWT • H2 |
-| **[Task-Flow Full Stack](https://github.com/getawyiha620-create/Task-Flow-full-stack)** | Complete task management system with user auth, CRUD operations, and modern UI | Spring Boot • React |
-| **[Go React Chat](https://github.com/getawyiha620-create/go-react-chat)** | Real-time chat application | Go • React |
-| **[React Go Auth](https://github.com/getawyiha620-create/react-go-auth)** | Authentication system with modern frontend | React • TypeScript • Go |
+| **[Go React Chat](https://github.com/getawyiha620-create/go-react-chat)** | Real-time chat application with WebSocket | Go • React • WebSocket |
+| **[React Go Auth](https://github.com/getawyiha620-create/react-go-auth)** | Authentication system with modern React + TypeScript frontend | React • TypeScript • Go |
 | **[Portfolio](https://github.com/getawyiha620-create/portfolio)** | Personal portfolio website showcasing projects and skills | HTML • CSS • JavaScript |
+| **[Go Book API](https://github.com/getawyiha620-create/go-book-api)** | RESTful Book API built with Go | Go • REST API |
 
 ---
 
@@ -80,7 +78,7 @@ Passionate about clean architecture, secure APIs, and delivering real-world solu
 I'm currently **open to work** and excited about opportunities in full-stack development, especially roles involving Java, Spring Boot, and React.
 
 - 📧 Email: [getawyiha620@gmail.com](mailto:getawyiha620@gmail.com)
-- 💼 LinkedIn: (add your LinkedIn link here if you have one)
+- 💼 LinkedIn: (add your LinkedIn link here)
 - 🌐 Portfolio: [Portfolio Repo](https://github.com/getawyiha620-create/portfolio)
 
 ---
@@ -90,17 +88,3 @@ I'm currently **open to work** and excited about opportunities in full-stack dev
 ⭐️ From [getawyiha620-create](https://github.com/getawyiha620-create)
 
 </div>
-<!--
-**getawyiha620-create/getawyiha620-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
